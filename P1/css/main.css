@@ -6,20 +6,29 @@ selector {
 }
 *******************/
 body{
+  font-family: 'Akaya Telivigala', cursive;
   background-color: rgb(218,169,245);
-  margin=top: 100px;
+  margin-top: 400px;
+
+
+
 }
 h1{
+  font-size:3em;
   color: white;
-  text-align: center;
+  text-align:center;
 }
 h2{
+  font-size:3em;
   color: black;
   text-align: center;
+
 }
 p{
+  font-size:3em;
   color: white;
   text-align: center;
+
 }
 a{
   color:  rgb(193,114,207);
