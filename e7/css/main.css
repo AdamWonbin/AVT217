@@ -1,0 +1,25 @@
+*{
+  background-color:#DBC984;
+}
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 4em;
+  color: #A36EDB;
+  text-align:center;
+}
+p,h4,ul{
+  font-family: 'Roboto', sans-serif;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: justify;
+}
+h2{
+  font-family: 'Luckiest Guy', cursive;
+  color:#636ADB;
+  margin-left: 250px;
+  margin-right: 250px;
+  text-align: justify;
+}
+#intro{
+  color:#63398F;
+}
