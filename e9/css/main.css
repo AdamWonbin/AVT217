@@ -1,0 +1,175 @@
+h1{
+  font-family: 'Roboto', sans-serif;
+}
+#p1 .gSquare {
+  width: 150px;
+  height: 150px;
+  background-color: #289935;
+  margin: -20px;
+  opacity: .70;
+  float: left;
+  transform: rotate(40deg);
+}
+#p1 .lgSquare {
+  width: 150px;
+  height: 150px;
+  background-color: #75FF85;
+  margin: -20px;
+  opacity: .70;
+  float: left;
+  transform: rotate(40deg);
+}
+#p1 .rCircle {
+  width: 150px;
+  height: 150px;
+  background: #99183E;
+  border-radius: 50%;
+  opacity: .70;
+  float: left;
+  margin: -20px;
+}
+#p1 .lrCircle {
+  width: 150px;
+  height: 150px;
+  background: #E6537E;
+  border-radius: 50%;
+  opacity: .70;
+  float: left;
+  margin: -20px;
+}
+#p2 .shape1{
+  width: 40px;
+  height: 20px;
+  margin: 10px;
+  border: 10px solid black;
+  background-color: yellow;
+  float: left;
+  opacity: .70;
+}
+#p2 .shape2{
+  width: 50px;
+  height: 100px;
+  margin: -10px;
+  border: 10px solid black;
+  background-color: pink;
+  float: left;
+  opacity: .70;
+}
+#p2 .shape3{
+  width: 40px;
+  height: 20px;
+  margin: -50px;
+  border: 10px solid black;
+  background-color: green;
+  float: left;
+}
+#p2 .shape4{
+  width: 80px;
+  height: 40px;
+  margin: -100px;
+  border: 10px solid black;
+  background-color: red;
+  float: left;
+
+}
+#p3 .shape1{
+  width: 50px;
+  height: 100px;
+  margin: -10px;
+  background-color: red;
+  border: 10px solid black;
+  opacity: .60;
+  transform: rotate(-45deg);
+  float: left;
+}
+#p3 .shape2{
+  width: 50px;
+  height: 100px;
+  margin: -10px;
+  background-color: green;
+  border: 10px solid black;
+  opacity: .60;
+  float: left;
+}
+#p3 .shape3{
+  width: 50px;
+  height: 100px;
+  margin: -10px;
+  background-color: blue;
+  border: 10px solid black;
+  opacity: .60;
+  transform: rotate(45deg);
+  float: left;
+}
+#p4 .shape1{
+  width: 200px;
+  height: 600px;
+  border: 10px dashed black;
+  float: left;
+}
+#p4 .shape2{
+  width: 400px;
+  height: 600px;
+  border: 10px dashed black;
+  margin: -50px;
+  float: left;
+  transform: rotate(45deg);
+}
+#p4 .shape3{
+  width: 400px;
+  height: 600px;
+  border: 10px dashed black;
+  margin: -50px;
+  margin-top: 100px;
+  float: left;
+  transform: rotate(90deg);
+}
+#p4 .shape4{
+  width: 400px;
+  height: 600px;
+  border: 10px dashed black;
+  margin: -370px;
+  margin-top: inherit;
+  float: left;
+  transform: rotate(90deg);
+}
+#p5 .shape1 {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  border-radius: 50%;
+  border: 10px solid black;
+  opacity: .70;
+  float: left;
+  margin: -20px;
+}
+#p5 .shape2 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 50%;
+  border: 10px solid black;
+  opacity: .70;
+  float: left;
+  margin: -20px;
+}
+#p5 .shape3 {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  border-radius: 50%;
+  border: 10px solid black;
+  opacity: .70;
+  float: left;
+  margin: -20px;
+}
+#p5 .shape4 {
+  width: 100px;
+  height: 100px;
+  background: black;
+  border-radius: 50%;
+  border: 10px solid black;
+  opacity: .70;
+  float: left;
+  margin: -20px;
+}
