@@ -1,0 +1,35 @@
+*{
+  font-size: 30px;
+  background-color:#ffadad;
+}
+header{
+  width: 75vw;
+  margin: 25px auto;
+  color: #42423A;
+  font-family: 'Dela Gothic One', cursive;
+}
+main{
+  width: 75vw;
+  margin: 25px auto;
+  display: flow-root;
+  font-family: 'Open Sans', sans-serif;
+}
+h3{
+  color: #70705D;
+  font-family: 'Dela Gothic One', cursive;
+}
+.col{
+  width: 50%;
+  float: left;
+}
+a:visited, a:link{
+  color:#688F74;
+}
+a:hover,  a:active{
+  color: #3B5743;
+}
+@media screen and (max-width: 1331px) {
+  .col{
+    width: 100%;
+  }
+}
