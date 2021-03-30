@@ -1,17 +1,20 @@
-
+body{
+    background-color: #7DFF4F;
+}
 .blue{
-  width: 100px;
-  height: 100px;
+  width: 5vw;
+  height: 5vw;
   background-color: #5CB6FF;
   float: left;
 }
 .orange{
-  width: 100px;
-  height: 100px;
+  width: 5vw;
+  height: 5vw;
   background-color: #E09F3A;
   float: left;
 }
 .board{
-  width: 800px;
+  width: 40vw;
   display: flow-root;
+  margin: 100px auto;
 }
