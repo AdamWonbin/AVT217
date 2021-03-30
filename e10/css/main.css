@@ -1,0 +1,17 @@
+
+.blue{
+  width: 100px;
+  height: 100px;
+  background-color: #5CB6FF;
+  float: left;
+}
+.orange{
+  width: 100px;
+  height: 100px;
+  background-color: #E09F3A;
+  float: left;
+}
+.board{
+  width: 800px;
+  display: flow-root;
+}
