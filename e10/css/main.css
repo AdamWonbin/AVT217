@@ -1,6 +1,7 @@
 body{
 
 }
+/* checker */
 .blue{
   width: 5vw;
   height: 5vw;
@@ -18,6 +19,7 @@ body{
   display: flow-root;
   margin: 100px auto;
 }
+/* column */
 .cboard{
   width: 38vw;
   display: flow-root;
@@ -57,4 +59,38 @@ body{
   background-color: #4253FF;
   float: left;
   margin-top: 1vw;
+}
+/* blog */
+.bBoard{
+  width: 60vw;
+  display: flow-root;
+  margin: 100px auto;
+}
+.bHead{
+  width: 60vw;
+  height: 10vw;
+  background-color: #7581FF;
+  float: left;
+}
+.content1{
+  width: 39vw;
+  height: 34vw;
+  background-color: #FF6969;
+  float: left;
+  margin-top: 8vw;
+  margin-right: 1vw;
+  margin-bottom: 1vw;
+}
+.content2{
+  width: 20vw;
+  height: 17vw;
+  background: #FF6969;
+  float: left;
+  margin-top: 8vw;
+}
+.content3{
+  width: 39vw;
+  height: 5vw;
+  background: #FF6969;
+  float: left;
 }
