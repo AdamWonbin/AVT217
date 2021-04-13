@@ -68,12 +68,12 @@
   margin-top: 80%;
 }
 .killer1{
-  position: absolute;
+  position: fixed;
   left: 15%;
   top: 200px;
 }
 .killer2{
-  position: absolute;
+  position: fixed;
   right: 15%;
   top: 200px;
   transform: scaleX(-1);
