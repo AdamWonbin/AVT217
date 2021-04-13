@@ -76,4 +76,5 @@
   position: absolute;
   right: 15%;
   top: 200px;
+  transform: scaleX(-1);
 }
