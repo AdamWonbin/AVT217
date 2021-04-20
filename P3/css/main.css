@@ -1,8 +1,31 @@
+*{
+  font-family: 'open Sans', sans-serif;
+}
+.killer{
+  position: inherit;
+}
+body{
+  padding: 0;
+  margin: 0;
+  background: #93AAED;
+}
+body.dark {
+  background: black;
+}
+button{
+  align-content: center;
+  cursor: pointer;
+  font-size: 3rem;
+  outline: none;
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+}
 .base{
   background-color: white;
   width: 400px;
   height: 500px;
-  position: absolute;
+  position:fixed;
   top: 0;
   bottom: 0;
   left: 0;
@@ -26,18 +49,16 @@
   border-color: gray;
   border-style: double;
   border-width: 5px;
+  text-align: center;
+  display: block;
 }
-.top{
+/* .top{
   width: 100px;
   height: 100px;
   background-color: gray;
   display: table;
   text-align: center;
-}
-.on{
-  vertical-align: middle;
-  display: table-cell;
-  font-family: 'Open Sans', sans-serif;
+
 }
 .bottom{
   width: 100px;
@@ -45,12 +66,7 @@
   background-color: white;
   display: table;
   text-align: center;
-}
-.off{
-  vertical-align: middle;
-  display: table-cell;
-  font-family: 'Open Sans', sans-serif;
-}
+} */
 .screw1{
   height: 30px;
   width: 30px;
@@ -66,15 +82,4 @@
   border-radius: 50%;
   margin:auto;
   margin-top: 80%;
-}
-.killer1{
-  position: fixed;
-  left: 15%;
-  top: 200px;
-}
-.killer2{
-  position: fixed;
-  right: 15%;
-  top: 200px;
-  transform: scaleX(-1);
 }
