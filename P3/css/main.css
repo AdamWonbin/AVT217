@@ -1,15 +1,14 @@
 *{
   font-family: 'open Sans', sans-serif;
+  overflow: auto;
 }
-.killer{
-  position: inherit;
-}
+
 body{
   padding: 0;
   margin: 0;
   background: #93AAED;
 }
-body.dark {
+.dark {
   background: black;
 }
 button{
